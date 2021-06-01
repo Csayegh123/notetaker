@@ -1,15 +1,29 @@
 {
-  "name": "note-taker",
+  "name": "notetakerkusayegh",
   "version": "1.0.0",
-  "description": "",
+  "description": "this is my homework for Ku coding bootcamp",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "",
+  "author": "CHris Sayegh",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
-  }
+    "express": "^4.17.1",
+    "inquirer": "^8.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Csayegh123/notetaker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Csayegh123/notetaker/issues"
+  },
+  "homepage": "https://github.com/Csayegh123/notetaker#readme",
+  "keywords": [
+    "note",
+    "taker"
+  ]
 }
